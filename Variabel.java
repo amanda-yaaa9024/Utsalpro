@@ -10,7 +10,7 @@ public class Variabel {
         String noHp = "083818002959";
         long penghasilan = 3000000;
 
-        // output
+        // output nya
         System.out.println(salam);
         System.out.println(pembuka);
         System.out.println("Nama Lengkap\t\t: " + namaLengkap);
